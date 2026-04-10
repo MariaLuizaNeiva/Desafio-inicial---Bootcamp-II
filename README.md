@@ -1,6 +1,6 @@
 # NutriLog CLI 🍎💧
 
-[![CI Pipeline](https://github.com/SEU_USUARIO/nutrilog-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/SEU_USUARIO/nutrilog-cli/actions)
+[![CI Pipeline](https://github.com/Maria-Luiza-Neiva/Desafio-inicial---Bootcamp-II/actions/workflows/ci.yml/badge.svg)](https://github.com/Maria-Luiza-Neiva/Desafio-inicial---Bootcamp-II/actions)
 
 ## 📝 Sobre o Projeto
 O **NutriLog CLI** é uma aplicação de linha de comando desenvolvida para ajudar estudantes e profissionais de tecnologia a manterem hábitos saudáveis durante a jornada de trabalho e estudos.
