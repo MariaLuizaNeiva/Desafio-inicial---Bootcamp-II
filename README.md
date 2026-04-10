@@ -34,8 +34,8 @@ Muitas vezes, mergulhados no código ou nas aulas, esquecemos do básico: beber 
 ### 2. Instalação e Configuração
 ```bash
 # Clone o repositório
-git clone [https://github.com/SEU_USUARIO/nutrilog-cli.git](https://github.com/SEU_USUARIO/nutrilog-cli.git)
-cd nutrilog-cli
+git clone https://github.com/MariaLuizaNeiva/Desafio-inicial---Bootcamp-II.git
+cd Desafio-inicial---Bootcamp-II
 
 # Crie o ambiente virtual
 python -m venv venv
@@ -45,3 +45,4 @@ python -m venv venv
 
 # Instale as dependências
 pip install -r requirements.txt
+``` 
